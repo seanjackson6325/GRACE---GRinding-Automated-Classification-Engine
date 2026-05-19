@@ -1,8 +1,9 @@
 # GRACE — GRinding Automated Classification Engine
 
-GRACE (GRinding Automated Classification Engine) is a machine learning–based framework developed to automate classification and analysis workflows for scientific and computational research environments.
+This codebase contains my entire project for my summer internship as a DSSI Scholar at Lawrence Livermore National Laboratory (May through August of 2025). The goal of this project is to make an automated grinding/polishing system for project APEX, a self driving laboratory (SDL) aimed at significantly increasing throughput and research progress in alloy discovery.
+A detailed look at the data collection, model development, methods & procedures and results can be found in the upcoming research paper for this project.
 
-This project is associated with Lawrence Livermore National Laboratory (LLNL) and focuses on improving efficiency in data-driven materials and scientific analysis workflows.
+SEE THE FULL DEPARTMENT OF ENERGY RELEASE OF THE CODE IN THE GITHUB LINK BELOW.
 
 ---
 
@@ -15,27 +16,3 @@ This project is associated with Lawrence Livermore National Laboratory (LLNL) an
   https://www.osti.gov/biblio/code-175863
 
 ---
-
-## Overview
-
-GRACE provides automated classification capabilities designed to support high-performance scientific computing workflows and advanced data analysis tasks.
-
-Key areas include:
-
-- Automated classification pipelines
-- Scientific data processing
-- Machine learning–driven analysis
-- Research workflow acceleration
-- Computational materials analysis
-
----
-
-## Attribution
-
-Developed through Lawrence Livermore National Laboratory (LLNL).
-
----
-
-## References
-
-If you use or reference this project, please cite the official repository and OSTI publication record listed above.
